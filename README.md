@@ -7,3 +7,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/KOBENFF/sdfd/refs/hea
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KOBENFFGGHH/Me/main/AttackMEME.txt"))()
 ---------Script PC
 ยังไม่ทำ
+-----แมพวิ่งใช้ได้หมด
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KOBENFF/LegendsOfSpeed/refs/heads/main/AttackFoLe.txt"))()
